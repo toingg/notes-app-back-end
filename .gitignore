@@ -1,0 +1,13 @@
+# File yang dihasilkan oleh editor atau IDE
+.vscode/
+.idea/
+
+# File log atau sementara
+*.log
+*.tmp
+
+# Direktori node_modules
+node_modules/
+
+# Berkas konfigurasi lokal
+.env
